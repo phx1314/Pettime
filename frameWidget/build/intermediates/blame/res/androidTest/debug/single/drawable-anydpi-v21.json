@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AsWork\\Pettime\\frameWidget\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "F:\\AsWork\\Pettime\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\Pettime\\frameWidget\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "F:\\AsWork\\Pettime\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\Pettime\\frameWidget\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\ic_check_black_24dp.xml",
+        "source": "F:\\AsWork\\Pettime\\frameWidget\\build\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\ic_check_black_24dp.xml"
+    }
+]
